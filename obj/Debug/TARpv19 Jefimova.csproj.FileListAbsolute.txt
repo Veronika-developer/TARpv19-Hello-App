@@ -1,0 +1,6 @@
+C:\Users\morgo\source\repos\TARpv19_Jefimova\bin\Debug\TARpv19 Jefimova.exe.config
+C:\Users\morgo\source\repos\TARpv19_Jefimova\bin\Debug\TARpv19 Jefimova.exe
+C:\Users\morgo\source\repos\TARpv19_Jefimova\bin\Debug\TARpv19 Jefimova.pdb
+C:\Users\morgo\source\repos\TARpv19_Jefimova\obj\Debug\TARpv19 Jefimova.csprojAssemblyReference.cache
+C:\Users\morgo\source\repos\TARpv19_Jefimova\obj\Debug\TARpv19 Jefimova.exe
+C:\Users\morgo\source\repos\TARpv19_Jefimova\obj\Debug\TARpv19 Jefimova.pdb
